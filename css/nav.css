@@ -1,0 +1,128 @@
+.nav-container {
+    display: flex;
+    width: 90vw;
+    max-width: 1500px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+}
+
+.nav-links-desktop {
+    max-width: 1500px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 15px;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.nav-links-desktop a {
+    color: var(--nav-links-color);
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav-links-desktop a:hover {
+    color: var(--nav-links-color-hover);
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav-link-dropdown:hover .nav-link-dropdown-show {
+    display: flex;
+}
+
+.nav-link-dropdown-show {
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+    position: absolute;
+    display: none;
+    flex-direction: column;
+    gap: 12px;
+    margin-left: -20px;
+}
+.nav-link-dropdown-show a{
+    cursor: pointer;
+}
+
+.for-mobile {
+    display: none;
+    width: 100vw;
+    height: 60vh;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s ease;
+}
+
+.nav-links-for-mobile {
+    max-width: 1500px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    gap: 15px;
+    transition: all 5s ease-in;
+}
+
+.nav-links-for-mobile a {
+    color: var(--nav-links-color);
+    text-decoration: none;
+    font-size: 27px;
+}
+
+.nav-links-for-mobile a:hover {
+    color: var(--nav-links-color-hover);
+    text-decoration: none;
+    font-size: 27px;
+}
+
+.img-close {
+    display: none;
+    position: absolute;
+    right: 60px;
+    top: 68px;
+    transition: all 5s ease-in;
+}
+
+.img-close:hover {
+    width: 33px;
+    height: 32px;
+}
+
+.logo {
+    cursor: pointer;
+    display: flex;
+    width: fit-content;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+}
+.logo a{
+    text-decoration:none;
+    color:var(--logo-color);
+}
+
+.logo-img {
+    width: 60px;
+    height: 60px;
+    display: none;
+    transition: all 0.5s ease-in;
+
+}
+
+.logo-img:hover {
+    width: 65px;
+    height: 60px;
+    transition: all 0.5s ease-in;
+
+}
+
+/*dafasdf*/

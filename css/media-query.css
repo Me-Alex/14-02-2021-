@@ -1,0 +1,32 @@
+@media only screen and (max-width:926px){
+    /* .container{
+        height: 150vh;
+    } */
+    .div3{
+        flex-direction: column;
+    }
+    .logo-img{
+        display: inherit;
+    }
+    .nav-links-desktop{
+        display: none;
+    }
+    .container{
+        /* width: 100vw; */
+    }
+    .footer-content{
+        flex-direction: column;
+        max-width:1500px;
+        display: flex;
+        justify-content:space-between ; 
+        text-align: justify;
+    }
+    .c2{
+        height:auto;
+        padding: 20px 0 20px 0;
+
+    }
+    .c2 .div2{
+        width:70%;
+    }
+}
