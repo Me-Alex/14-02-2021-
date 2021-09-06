@@ -1,18 +1,25 @@
 :root{
-    --bg-body:#000000;
-    --bg-container:rgb(27, 27, 27);
-    --nav-links-color:rgb(119, 118, 118);
-    --nav-links-color-hover:rgb(196, 195, 195);
-    --p-color:rgb(119, 118, 118);
-    --h5-color:red;
-    --container-h1-color:black;
-    --color-span:red;
-    --footer-a-text-color:rgb(255, 255, 255);
-    --p-text-color-footer:rgb(255, 255, 255);
-    --text-color:#ffffff;
-    --footer-bg-color:rgb(27, 27, 27);
-    --footer-h1-text-color:black;
-    --logo-color:rgb(119, 118, 118);
-    --footer-a-text-color-hover:rgb(182, 180, 180);
+    --bg-body: #90dfdb9e;
+    --bg-container: rgb(27, 27, 27);
+    --bg-container-with-text:rgb(27 27 27 / 23%);
+    --nav-links-color: rgb(119, 118, 118);
+    --nav-links-color-hover: rgb(196, 195, 195);
+    --p-color: black;
+    --h5-color: red;
+    --container-h1-color: black;
+    --color-span: red;
+    --footer-a-text-color: rgb(255, 255, 255);
+    --p-text-color-footer: rgb(255, 255, 255);
+    --text-color: #ffffff;
+    --footer-bg-color: rgb(27 27 27 / 23%);
+    --footer-h1-text-color: black;
+    --logo-color: rgb(119, 118, 118);
+    --footer-a-text-color-hover: rgb(182, 180, 180);
+    --button-color-text: rgb(0, 0, 0);
+    --button-color-text-hover: rgb(255, 255, 255);
+    --button-border-color: rgb(197, 197, 197);
+    --button-border-color-hover: rgb(0, 0, 0);
+    --button-color-bg: rgb(133, 58, 58);
+    --button-color-bg-hover: rgb(139, 35, 35);
     
 }   

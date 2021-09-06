@@ -90,10 +90,11 @@
 }
 
 .img-close {
+    background-color: white;
     display: none;
     position: absolute;
     right: 60px;
-    top: 68px;
+    top: 98px;
     transition: all 5s ease-in;
 }
 

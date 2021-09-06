@@ -1,9 +1,9 @@
-.dark{
-    --bg-body:#000000;
+/* .dark{
+    --bg-body:#90dfdb9e;
     --bg-container:rgb(27, 27, 27);
     --nav-links-color:rgb(119, 118, 118);
     --nav-links-color-hover:rgb(196, 195, 195);
-    --p-color:rgb(119, 118, 118);
+    --p-color:black;
     --h5-color:red;
     --container-h1-color:black;
     --color-span:red;
@@ -14,7 +14,12 @@
     --footer-h1-text-color:black;
     --logo-color:rgb(119, 118, 118);
     --footer-a-text-color-hover:rgb(182, 180, 180);
-
+    --button-color-text:rgb(0, 0, 0);
+    --button-color-text-hover:rgb(255, 255, 255);
+    --button-border-color:rgb(197, 197, 197);
+    --button-border-color-hover:rgb(0, 0, 0);
+    --button-color-bg:rgb(133, 58, 58);
+    --button-color-bg-hover:rgb(139, 35, 35);
 
 }  
 
@@ -24,22 +29,27 @@
     --nav-links-color:#000000;
     --nav-links-color-hover:#443737;
     --p-color:#5d5d5d;
-    --h5-color:red;
-    --container-h1-color:black;
+    --h5-color:rgb(241, 239, 239);
+    --container-h1-color:rgb(19, 18, 18);
     --color-span:red;
-    --footer-a-text-color:#5d5d5d;
-    --p-text-color-footer:#5d5d5d;
+    --footer-a-text-color:#fffafa;
+    --p-text-color-footer:#fffafa;
     --text-color:#5d5d5d;
     --footer-bg-color:#dedede;
     --footer-h1-text-color:black;
     --logo-color:#000000;
     --footer-a-text-color-hover:white;
-
+    --button-color-text:rgb(255, 255, 255);
+    --button-color-text-hover:rgb(0, 0, 0);
+    --button-border-color:rgb(197, 197, 197);
+    --button-border-color-hover:rgb(197, 197, 197);
+    --button-color-bg:rgb(133, 58, 58);
+    --button-color-bg-hover:rgb(139, 35, 35);
 
 }
 
 .solar {
-    --bg-body:#7ddf64;
+    --bg-body:#0000002b;
     --bg-container:#c0df85;
     --nav-links-color:#db6c79;
     --nav-links-color-hover:#f8b600d3;
@@ -54,6 +64,12 @@
     --footer-h1-text-color:#ed4d6e;
     --logo-color:#db6c79;
     --footer-a-text-color-hover:white;
+    --button-color-text:rgb(255, 255, 255);
+    --button-color-text-hover:rgb(0, 0, 0);
+    --button-border-color:rgb(2, 2, 2);
+    --button-border-color-hover:rgb(255, 255, 255);
+    --button-color-bg:rgb(255, 255, 255);
+    --button-color-bg-hover:rgb(139, 35, 35);
 
 
-}
+} */
